@@ -1,0 +1,6 @@
+¿Cómo es que el ver dos versiones diferentes de un archivo te ayuda a visualizar un error escrito? Para comparar los archivos y poder encontrar con mas facilidad el error 
+¿Cómo el tener acceso al historial completo de un archivo te hace más eficiente como diseñador a largo térmico? Para saber como se ha ido trabajando y modificando el archivo en que se esta trabajando.
+¿Cuáles crees que sean los pros y los contras de elegir cuando hacer un commit de forma manual (como lo haces con git), contra que los cambios se hagan de forma automática (como google docs lo hace)? Manual lo haces paso por paso y de la forma automatica es mas rápido.
+¿Por qué crees que algunos sistemas de control de versiones permiten guardar los cambios de multiples archivos en un commit, mientras otros como Google Docs manejan cada archivo de forma separada? Para que no pueda alterar a los demas archivos con los que se esta trabajando
+¿De qué manera el uso de un sistema de control de versiones puede darte la confianza de hacer cambios en tu proyecto que podria dañar o laterar su funcionamiento? 
+Ahora que tienes tu entorno de trabajo configurado¿Qué te gustaría intentar hacer utilizando Git? 
