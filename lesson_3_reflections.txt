@@ -1,1 +1,2 @@
-¿Por qué querrías hacer siempre tus “pull” de forma manual en lugar de que Git se mantenga actualizado y en coordinación con tu repositorio remote de forma automática? Para guardar solos los cambios deseados 
+¿Por qué querrías hacer siempre tus “pull” de forma manual en lugar de que Git se mantenga actualizado y en coordinación con tu repositorio remote de forma automática? Para guardar solos los cambios deseados
+Describe las diferencias entre forks, clones y branches y di para que utilizas cada uno. El forks: trabajar de manera colaborativa, el clone: permite hacer copias de repositorios y los branches: permite trabajar independiente en versiones distintas 
