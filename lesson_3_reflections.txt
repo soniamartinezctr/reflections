@@ -1,1 +1,1 @@
-
+¿Por qué querrías hacer siempre tus “pull” de forma manual en lugar de que Git se mantenga actualizado y en coordinación con tu repositorio remote de forma automática? Para guardar solos los cambios deseados 
