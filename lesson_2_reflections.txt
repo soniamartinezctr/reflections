@@ -1,3 +1,5 @@
 ¿Qué pasa cuando inicializas un repositorio?, ¿Por qué es necesario hacerlo? aparece un branche, y es necesario para que se convierta en repositorio
 ¿Como es diferente el “staging area” de una carpeta de trabajo y de un repositorio? ¿Cuál es el valor que esta ofrece? es el intermediario entre el repositorio y la carpeta actual. 
-
+¿Cómo puedes usar el “staging area” para asegurarte que tienes un commit por cambio lógico?Ejecutando el comando git diff para diferenciar los cambios
+¿Cuáles son algunas situaciones en las que los branches te ayudarían a mantener tu historial organizado?, ¿Cómo podrían los branches ayudar?te puede ayudar a manejar sobre el mismo proyecto una version de prueba que no afecte a la original
+¿Cómo te ayudan los diagramas a visualizar la estructura de un branch? para visualizar los commits que se hicieron en cada branch
